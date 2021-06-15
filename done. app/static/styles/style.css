@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+    font-family: Calibri, serif;
+    font-size: large;
+}
+
+table, th, td {
+    border-collapse: collapse;
+    padding: 3px;
+    font-size: large;
+}
+
+.arrow {
+    padding: 1px;
+}
+
+.arrow:hover {
+    cursor: pointer;
+}
+
+.header {
+    background: #4287f5;
+    box-shadow: 1px 5px 5px lightgrey;
+    padding: 10px;
+    color: white;
+    text-align: left;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.header b {
+    font-size: 15px;
+    font-weight: normal;
+}

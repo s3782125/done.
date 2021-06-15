@@ -1,0 +1,8 @@
+{
+  "require": {
+    "aws/aws-sdk-php": "*",
+    "ext-mysqli": "*"
+  },
+  "name": "me/done",
+  "description": "done. app"
+}
